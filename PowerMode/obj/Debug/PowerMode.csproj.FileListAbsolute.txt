@@ -1,0 +1,7 @@
+E:\Ehsan\Desktop\PowerMode\PowerMode\PowerMode\bin\Debug\PowerMode.exe.config
+E:\Ehsan\Desktop\PowerMode\PowerMode\PowerMode\bin\Debug\PowerMode.exe
+E:\Ehsan\Desktop\PowerMode\PowerMode\PowerMode\bin\Debug\PowerMode.pdb
+E:\Ehsan\Desktop\PowerMode\PowerMode\PowerMode\obj\Debug\PowerMode.csproj.AssemblyReference.cache
+E:\Ehsan\Desktop\PowerMode\PowerMode\PowerMode\obj\Debug\PowerMode.csproj.CoreCompileInputs.cache
+E:\Ehsan\Desktop\PowerMode\PowerMode\PowerMode\obj\Debug\PowerMode.exe
+E:\Ehsan\Desktop\PowerMode\PowerMode\PowerMode\obj\Debug\PowerMode.pdb
