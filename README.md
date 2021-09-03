@@ -1,11 +1,11 @@
 # ModPower
 Its Calculates Big (a^b) mod c
 ## Example
-for example, U need to calculate a big Expression like:
+for example, U need to calculate a big Expression like this one:
 ```c#
 (10000^100000) mod 45
 ```
-it's impossible to calculate something like that with ordinary simple calculation! :thinking: :frowning_face:
+it's impossible to calculate something like that with ordinary simple calculations! :thinking: :frowning_face:
 
 this the examlpe of the way you can solve big Expression like ```10000^100000 mood 45``` :
 ```assembly
