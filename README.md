@@ -5,7 +5,9 @@ for example, U need to calculate a big Expression like:
 ```c#
 (10000^100000) mod 45
 ```
-it's impossible to calculate something like that with simple calculation! :thinking: :frowning_face:
+it's impossible to calculate something like that with ordinary simple calculation! :thinking: :frowning_face:
+
+this the examlpe of the way you can solve big Expression like ```10000^100000 mood 45``` :
 ```assembly
 10000^100000 mood 45
 = (10000^65536) x (10000^32768) x (10000^1024) x (10000^512) x (10000^128) x (10000^32) mod 45
@@ -57,5 +59,4 @@ it's impossible to calculate something like that with simple calculation! :think
 = (10^1) mood 45 = 10
 ```
 
-stills seems too long :frowning_face: 
-but it can be simply implemented! :grinning:
+seems too much calculation;:frowning_face: but not for cumputer, and it can be simply implemented! :grinning:
