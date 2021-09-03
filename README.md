@@ -1,5 +1,7 @@
 # ModPower
-Its Calculates Big (a^b) mod c
+ModPower function can Calculate Big Expressions like ```(a^b) mod c``` in **C#** ```(System.Numerics -> BigInteger)``` and other programing languages.<br>
+**and this is how is works:**
+
 ## Example
 for example, U need to calculate a big Expression like this one:
 ```c#
@@ -7,7 +9,7 @@ for example, U need to calculate a big Expression like this one:
 ```
 it's impossible to calculate something like that with ordinary simple calculations! :thinking: :frowning_face:
 
-this the examlpe of the way you can solve big Expression like ```10000^100000 mood 45``` :
+this is the example of the way you can solve big Expression like ```(a^b) mod c = 10000^100000 mood 45``` :
 ```assembly
 10000^100000 mood 45
 = (10000^65536) x (10000^32768) x (10000^1024) x (10000^512) x (10000^128) x (10000^32) mod 45
@@ -59,4 +61,4 @@ this the examlpe of the way you can solve big Expression like ```10000^100000 mo
 = (10^1) mood 45 = 10
 ```
 
-seems too much calculation;:frowning_face: but not for cumputer, and it can be simply implemented! :grinning:
+seems too much calculation;:frowning_face: but not for a cpmputer, and it can be simply implemented! :grinning:
