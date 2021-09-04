@@ -9,9 +9,9 @@ for example, U need to calculate a big Expression like this one:
 ```
 it's impossible to calculate something like that with ordinary simple calculations! :thinking: :frowning_face:
 
-this is the example of the way you can solve big Expression like ```(a^b) mod c = 10000^100000 mood 45``` :
+this is the example of the way you can solve big Expression like ```(a^b) mod c = 10000^100000 mod 45``` :
 ```assembly
-10000^100000 mood 45
+10000^100000 mod 45
 = (10000^65536) x (10000^32768) x (10000^1024) x (10000^512) x (10000^128) x (10000^32) mod 45
 = (10000 mod 45)^65536 x (10000^32768) x (10000^1024) x (10000^512) x (10000^128) x (10000^32) mood 45
 = (10^65536) x (10000^32768) x (10000^1024) x (10000^512) x (10000^128) x (10000^32) mood 45
