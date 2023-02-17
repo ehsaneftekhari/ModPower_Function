@@ -7,7 +7,7 @@ for example, U need to calculate a big Expression like this one:
 ```c#
 (10000^100000) mod 45
 ```
-it's impossible to calculate something like that by ordinary simple calculations! :thinking: :frowning_face:
+it's impossible to calculate something like that using ordinary simple calculations! :thinking: :frowning_face:
 
 this is the example of the way you can solve big Expression like ```(a^b) mod c = 10000^100000 mod 45``` :
 ```assembly
