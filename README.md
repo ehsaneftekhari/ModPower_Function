@@ -7,7 +7,7 @@ for example, U need to calculate a big Expression like this one:
 ```c#
 (10000^100000) mod 45
 ```
-it's impossible to calculate something like that using ordinary simple calculations! :thinking: :frowning_face:
+it's impossible to calculate something like that using ordinary simple calculations!
 
 this is the example of the way you can solve big Expression like ```(a^b) mod c = 10000^100000 mod 45``` :
 ```assembly
@@ -61,4 +61,4 @@ this is the example of the way you can solve big Expression like ```(a^b) mod c 
 = (10^1) mood 45 = 10
 ```
 
-seems too much calculation;:frowning_face: but not for a cpmputer, and it can be simply implemented! :grinning:
+seems too much calculation; but not for a cpmputer, and it can be simply implemented!
