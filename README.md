@@ -3,7 +3,7 @@ ModPower function can Calculate Big Expressions like ```(a^b) mod c``` in **C#**
 **and this is how is works:**
 
 ## Example
-for example, U need to calculate a big Expression like this one:
+for example, you need to calculate a big Expression like this one:
 ```c#
 (10000^100000) mod 45
 ```
